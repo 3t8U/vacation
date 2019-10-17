@@ -7,4 +7,26 @@
 .photo {
   width:400px;
   height:400px;
+  float:right;
+  padding-left: 80px;
+}
+
+#button {
+
+
+}
+
+.banner {
+  text-align: center;
+  background-color: lightblue;
+  font-family: 'Modak', cursive;
+  font-size: 60px;
+}
+
+.trashcan {
+  text-align: center;
+}
+
+.textbox {
+margin-top: 30px;
 }
