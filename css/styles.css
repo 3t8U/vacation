@@ -3,3 +3,8 @@
   font-variant-east-asian: normal;
   color: #540881;
 }
+
+.photo {
+  width:400px;
+  height:400px;
+}
