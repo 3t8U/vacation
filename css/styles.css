@@ -27,6 +27,9 @@
   text-align: center;
 }
 
-.textbox {
-margin-top: 30px;
+.textbox, li {
+color: blue;
+padding-top: 10px;
+
+
 }
